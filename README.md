@@ -6,4 +6,6 @@
 <p><b>Link Hosting</b></p>
 <p>1. User : http://semuasatu.com/</p>
 <p>2. Admin : http://semuasatu.com/login</p>
+<p>username : admin</p>
+<p>password : adminadmin</p>
 <p><b>Link video dokumentasi youtube</b> : https://youtu.be/GII2Sws6mAk </p>
